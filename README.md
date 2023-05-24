@@ -19,8 +19,8 @@ The following steps needs to be undertaken for confiurin the solution
 - Deploy the funtion
 - Create a event that is linked to teh function
 
-Supporting documentation
-[AutonomousREST/ORDS primer](https://blog.cloudnueva.com)ords-and-rest-enabled-sql)<BR>
+Supporting documentation<BR>
+[AutonomousREST/ORDS primer](https://blog.cloudnueva.com/apex-ords-and-rest-enabled-sql)<BR>
 [OCI Function primer](https://docs.oracle.com/en-us/iaas/Content/Events/Concepts/eventsoverview.htm)<BR>
 [OCI Vault](https://www.youtube.com/watch?v=6OyrVWSL_D4)<BR>
 [OCI Events](https://www.youtube.com/watch?v=rrhCazXO5tQ)<BR>
