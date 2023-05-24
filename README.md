@@ -10,7 +10,7 @@ The script works as follows:
 - Execute create user/drop user/ grant role/recvoke role, based on actin extracted  form the event payload
 - The SQl are executed as ORDS REST API POST wih the dynamic generated SQL statement as JSON payload
 
-Teh follwoin steps needs to be undertaken for confiurin the solution
+The following steps needs to be undertaken for confiurin the solution
 - Enable REST AP for a Atinomous database users with sufficient privilege
 - Create a OCI Vault and store the database basic auth credentailas as secrets
 - Create a OCI serverless funtion
@@ -20,7 +20,8 @@ Teh follwoin steps needs to be undertaken for confiurin the solution
 - Create a event that is linked to teh function
 
 Supporting documentation
-[AutonomousREST/ORDS primer](https://blog.cloudnueva.com/apex-ords-and-rest-enabled-sql)
+[AutonomousREST/ORDS primer](https://blog.cloudnueva.com)ords-and-rest-enabled-sql)
 [OCI Function primer] (https://docs.oracle.com/en-us/iaas/Content/Events/Concepts/eventsoverview.htm)
-[OCI Vault]
-[OCI Events]
+[OCI Vault] (https://www.youtube.com/watch?v=6OyrVWSL_D4)
+[OCI Events] (https://www.youtube.com/watch?v=rrhCazXO5tQ)
+[OCI IAM Domain events] (https://docs.oracle.com/en-us/iaas/Content/Events/Reference/eventsproducers.htm#iam-events)
